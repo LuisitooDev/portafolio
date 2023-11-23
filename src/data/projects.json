@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Uparkinglot",
+      "imageSrc": "projects/uparkinglot.png",
+      "description": "uParkingLot is a robust project developed as part of my university courses, which focuses on creating an innovative parking management system. The main goal was to design an easy-to-use web application and backend system that optimizes the parking experience for both drivers and parking managers.",
+      "skills": ["React", "Express", "Node", "Mongo","CSS","HTML","PHP"],
+      "demo": "",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Urdentalappointment",
+      "imageSrc": "projects/urdentalappointmen.png",
+      "description": "Urdentalappointment is a comprehensive project developed as part of my university studies. The main objective of the project was to design and implement a user-friendly web application aimed at optimizing the medical appointment scheduling process for both healthcare professionals and patients. The app seamlessly integrates real-time data, streamlining the scheduling process and improving overall efficiency.",
+      "skills": ["MySql", "Express", "Node", "PHP","HTML","CSS"],
+      "demo": "",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Pomodoro",
+      "imageSrc": "projects/pomodoro.png",
+      "description": "Pomodoro is a project developed in my free time, focusing on creating a comprehensive productivity improvement system based on Pomodoro. The main goal was to design an easy-to-use web application to help people manage their time effectively using the Pomodoro technique. The application integrates real-time tracking and task management.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://pomototoro-timer.netlify.app",
+      "source": "https://www.github.com"
+    }
+  ]
